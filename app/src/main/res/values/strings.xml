@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartTree</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="choose_take_photo">Photo</string>
+    <string name="choose_video">Video</string>
+    <string name="title_activity_share">ShareActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
